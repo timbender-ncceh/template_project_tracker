@@ -28,6 +28,7 @@ Files can be managed and changes tracked by uploading them to the repository per
 You can add "Task Lists" which are interactive checklists in most text boxes in GitHub by starting a new line of text with an [open bracket] and [closed bracket].  For example: 
 * Type: "[ ] Task 1" to see:
 * [ ] Task 1
+
 * Type: "[x] Task 2" to see: 
 * [x] Task 2  
   
