@@ -10,7 +10,7 @@ A template repository to clone each time a new NCCEH data project is begun to he
 In order for other people to participate in a repository, the following steps must be completed: 
 1. Each person must register for an account on GitHub
 2. Each person must follow this particular repository (not the template, but the project repository).  You can send them a link to the repository or simply tell them to follow you on GitHub and find the repository via your profile.
-3. The owner of the repository must grant user permissions for each follower to define how they are allowed to interact with the repository.  
+3. The owner of the repository must grant user permissions for each follower to define how they are allowed to interact with the repository.  Read-only or Full read/write. 
 
 # TRACKING ISSUES
 Issues can be tracked in the repository's "Issues" tab button (above) or at the following url: github.com/[username]/[repository]/issues.  Issue tracking is relatively self-explanatory but additional information can be found at https://docs.github.com/en
