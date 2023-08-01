@@ -12,7 +12,7 @@ A template repository to clone each time a new NCCEH data project is begun to he
 Issues can be tracked in the repository's "Issues" tab button (above) or at the following url: github.com/[username]/[repository]/issues
 
 # FILES
-Files can be managed and changes tracked by uploading them to the repository periodically via the "Add Files" button above.  Use this space to note what files are included and the status of each. 
+Files can be managed and changes tracked by uploading them to the repository periodically via the "Add file" button above.  Use this space to note what files are included and the status of each. 
 * filename1.xx
 * filename2.xx
 * etc
