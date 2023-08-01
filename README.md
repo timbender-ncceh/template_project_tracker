@@ -24,7 +24,11 @@ Files can be managed and changes tracked by uploading them to the repository per
 # CUSTOMIZE THIS DOCUMENT AS YOU SEE FIT
 * Hash Tags (#) are used in the markup language to create different heading levels. I believe markup allows for up to 6 different heading levels
 * To see the full Markup style guide go to: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
+## Task Lists
+You can add "Task Lists" which are interactive checklists in most text boxes in GitHub by starting a new line of text with an [open bracket] and [closed bracket].  For example: 
+* Type: "[] Task 1" to see:
+* [] Task 1
+  
 ## Tables
 ## Images / Photos
 Photos and Images can be copied and pasted directly in-line into thie text editor for this README.md file as follows: ![image](https://github.com/timbender-ncceh/template_project_tracker/assets/105810134/16c6e1ed-2708-416c-a7d7-3e8ffdec9af6)
