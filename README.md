@@ -26,8 +26,8 @@ Files can be managed and changes tracked by uploading them to the repository per
 * To see the full Markup style guide go to: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 ## Task Lists
 You can add "Task Lists" which are interactive checklists in most text boxes in GitHub by starting a new line of text with an [open bracket] and [closed bracket].  For example: 
-* Type: "[] Task 1" to see:
-* [] Task 1
+* Type: "[ ] Task 1" to see:
+* [ ] Task 1
   
 ## Tables
 ## Images / Photos
