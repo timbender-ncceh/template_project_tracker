@@ -20,3 +20,10 @@ Files can be managed and changes tracked by uploading them to the repository per
 * filename1.xx
 * filename2.xx
 * etc
+
+# CUSTOMIZE THIS DOCUMENT AS YOU SEE FIT
+## Hash Tags (#) are used in the markup language to create different heading levels. 
+### I believe markup allows for up to 6 different heading levels
+
+# PHOTOS/IMAGES
+Photos and Images can be copied and pasted directly in-line into thie text editor for this README.md file as follows: ![image](https://github.com/timbender-ncceh/template_project_tracker/assets/105810134/16c6e1ed-2708-416c-a7d7-3e8ffdec9af6)
