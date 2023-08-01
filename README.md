@@ -9,6 +9,7 @@ A template repository to clone each time a new NCCEH data project is begun to he
 # PROJECT MEMBERS
 
 # TRACKING ISSUES
+Issues can be tracked in the repository's "Issues" tab button (above) or at the following url: github.com/[username]/[repository]/issues
 
 # FILES
 * filename1.xx
