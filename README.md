@@ -27,3 +27,6 @@ Files can be managed and changes tracked by uploading them to the repository per
 
 # PHOTOS/IMAGES
 Photos and Images can be copied and pasted directly in-line into thie text editor for this README.md file as follows: ![image](https://github.com/timbender-ncceh/template_project_tracker/assets/105810134/16c6e1ed-2708-416c-a7d7-3e8ffdec9af6)
+
+# TAGGING USERS
+It's possible to tag users who are followers of the repository by typing their username pre-pended with an "@" symbol (i.e. @timbender-ncceh).  A tagged user will be notified that they have been tagged and where.  Tagging can be done in most text boxes in GitHub, and if successful the username will show up as a hyperlink. 
